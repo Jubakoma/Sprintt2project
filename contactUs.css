@@ -1,0 +1,44 @@
+header {
+    background: black;
+    color: white;
+    padding: 20px 0px;
+    text-align: center;
+    font-family: serif 
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav {
+   background-color: "#343434";
+    padding-top: px;
+    margin-top: -3px;
+    font-family: serif
+}
+
+nav a {
+   
+    text-decoration: none;
+    margin: 0px 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color: blue;
+}
+
+.curent {color: blue}
+        
+.section {
+  padding: 7px 6px;
+  overflow: hidden;
+  background-color: #f1f1f1;
+        }
+       
+body {
+  font-family:"sans-serif"}
